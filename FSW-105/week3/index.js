@@ -1,4 +1,4 @@
-var peopleWhoWantToSeeMadMaxFuryRoad =[
+let peopleWhoWantToSeeMadMaxFuryRoad =[
     {
         name: "Mike",
         age: 12,
